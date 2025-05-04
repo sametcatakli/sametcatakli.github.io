@@ -1,0 +1,17 @@
+Samet Catakli
+Sécu 2
+
+Fonctionnalités JavaScript de mon CV
+
+jQuery:
+- Thème dark/light avec sauvegarde dans le localStorage
+- Bouton d'impression optimisé
+- Animation des barres de compétences
+
+Plugins jQuery:
+- ProgressBar.js pour les barres de compétences
+
+JavaScript natif:
+- Animation avec pattern en background
+
+Technologies: JavaScript, jQuery, ProgressBar
